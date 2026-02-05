@@ -25,17 +25,17 @@ dotNetPELoader.exe --coffee
 dotNetPELoader.exe --x64 mimikatz
 ```
 
-![](https://github.com/iss4cf0ng/dotNetPELoader/tree/main/screenshots/x64.1.png)
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.1.png)
 
-![](https://github.com/iss4cf0ng/dotNetPELoader/tree/main/screenshots/x64.2.png)
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.2.png)
 
-![](https://github.com/iss4cf0ng/dotNetPELoader/tree/main/screenshots/x64.2.png)
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.3.png)
 
 ## x86 - mimikatz
 ```
 dotNetPELoader.exe --x86 mimikatz
 ```
 
-![](https://github.com/iss4cf0ng/dotNetPELoader/tree/main/screenshots/x86.1.png)
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x86.1.png)
 
-![](https://github.com/iss4cf0ng/dotNetPELoader/tree/main/screenshots/x86.2.png)
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x86.2.png)
