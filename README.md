@@ -11,6 +11,10 @@ First, it reads the file bytes from the specified file path, then determines the
 
 An x64 PE cannot be loaded by an x86 loader, and vice versa.
 
+<p align="center">
+<img src="https://iss4cf0ng.github.io/images/meme/mika_cute.jpg" width="300">
+</p>
+
 # Usage
 ```
 dotNetPELoader.exe --x64 x64_file.exe
