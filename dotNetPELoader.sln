@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetPELoader", "dotNetPELoader\dotNetPELoader.csproj", "{DA6E3370-8550-4A68-B2CC-3609EBB7C8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6E3370-8550-4A68-B2CC-3609EBB7C8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6E3370-8550-4A68-B2CC-3609EBB7C8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6E3370-8550-4A68-B2CC-3609EBB7C8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6E3370-8550-4A68-B2CC-3609EBB7C8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73BB0321-F044-4CE5-B5F7-BBBFE6F8FE10}
+	EndGlobalSection
+EndGlobal
