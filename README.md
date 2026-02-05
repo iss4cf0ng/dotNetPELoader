@@ -22,13 +22,15 @@ dotNetPELoader.exe --x86 x86_file.exe
 dotNetPELoader.exe --coffee
 ```
 
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/hello.png)
+
 # Demonstration
 ## x64 - mimikatz
 ![](https://github.com/iss4cf0ng/dotNetPELoader/tree/main/screenshots/anycpu.png)
 ```
 dotNetPELoader.exe --x64 mimikatz
 ```
-
+If you try to load an x86 PE while the loader is an x64 loader, an exception will be thrown:
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.1.png)
 
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.2.png)
