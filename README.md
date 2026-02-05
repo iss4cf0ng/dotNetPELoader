@@ -11,6 +11,13 @@ First, it reads the file bytes from the specified file path, then determines the
 
 An x64 PE cannot be loaded by an x86 loader, and vice versa.
 
+## Features
+- Load **x86 PE in x86 process**
+- Load **x64 PE in x64 process**
+- Handles relocation and import resolving
+- Fully written in C#
+
+If you find this project useful, a ⭐ would be appreciated.
 <p align="center">
 <img src="https://iss4cf0ng.github.io/images/meme/mika_cute.jpg" width="300">
 </p>
