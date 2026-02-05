@@ -53,7 +53,7 @@ namespace dotNetPELoader
 
                     x86PELoader pe = new x86PELoader(abBytes);
                     if (!pe.Is32Bit)
-                        throw new Exception("This is not a x86 PE file.");
+                        throw new Exception("This is not an x86 PE file.");
 
                     fnLogOK(string.Format("Preferred Load Address = {0}", pe.OptionalHeader.ImageBase.ToString("X4")));
 
@@ -70,7 +70,7 @@ namespace dotNetPELoader
 
                     x64PELoader pe = new x64PELoader(abBytes);
                     if (pe.Is32BitHeader)
-                        throw new Exception("This is not a x64 PE file.");
+                        throw new Exception("This is not an x64 PE file.");
 
                     fnLogOK($"Preferred Load Address = {pe.OptionalHeader64.ImageBase.ToString("X4")}");
 
