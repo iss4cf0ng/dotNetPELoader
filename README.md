@@ -31,7 +31,7 @@ If you try to load an x86 PE while the loader is an x64 loader, an exception wil
 ```
 > dotNetPELoader.exe --x64 minikatz.exe
 ```
-![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.3.png)
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.2.png)
 
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.3.png)
 
