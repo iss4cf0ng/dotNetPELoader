@@ -21,13 +21,26 @@ dotNetLoader.exe --coffee
 ## x64 - Loading an x64 mimikatz:
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/anycpu.png)
 
+
+If you try to load an x86 PE while the loader is an x64 loader, an exception will be thrown:
+```
+> dotNetPELoader.exe --x86 minikatz.exe
+```
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.1.png)
 
+```
+> dotNetPELoader.exe --x86 minikatz.exe
+```
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.3.png)
 
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.3.png)
 
 ## x86 - Loading an x86 mimikatz:
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x86_cpu.png)
+
+```
+> dotNetPELoader.exe --x86 minikatz.exe
+```
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x86.1.png)
 
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x86.2.png)
