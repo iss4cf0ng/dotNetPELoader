@@ -24,12 +24,12 @@ dotNetLoader.exe --coffee
 
 If you try to load an x86 PE while the loader is an x64 loader, an exception will be thrown:
 ```
-> dotNetPELoader.exe --x86 minikatz.exe
+> dotNetPELoader.exe --x64 minikatz.exe
 ```
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.1.png)
 
 ```
-> dotNetPELoader.exe --x86 minikatz.exe
+> dotNetPELoader.exe --x64 minikatz.exe
 ```
 ![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x64.3.png)
 
