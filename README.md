@@ -42,7 +42,7 @@ dotNetPELoader.exe --x64 mimikatz
 
 ## x86 - mimikatz
 
-https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x86_cpu.png
+![](https://github.com/iss4cf0ng/dotNetPELoader/blob/main/screenshots/x86_cpu.png)
 
 ```
 dotNetPELoader.exe --x86 mimikatz
