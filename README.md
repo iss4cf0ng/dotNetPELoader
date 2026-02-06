@@ -1,5 +1,5 @@
 # dotNetPELoader
-A C# PE loader for both x64 and x86 PE file.
+A C# PE loader for x64 and x86 PE files.
 
 Recently, when I was developing a fileless execution method for [DuplexSpy RAT](https://github.com/iss4cf0ng/DuplexSpyCS) version 2, I could hardly find a C#-based x86 PE loader.  
 Most existing implementations I found were x64-only, such as the one developed by [Casey Smith](https://github.com/S3cur3Th1sSh1t/Creds/blob/master/Csharp/PEloader.cs)
