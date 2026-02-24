@@ -1,9 +1,9 @@
 # dotNetPELoader
 ## Security Notice
 Recently, I discovered an unofficial modified version of this project being redistributed outside of this repository.  
-Fake repository with malicious loader: https://github.com/SangPham1508/dotNetPELoader
 
 After reviewing the files, I identified additional hidden components and script-loading behavior that do **NOT** exist in the official source code.
+Fake repository with malicious loader: https://github.com/SangPham1508/dotNetPELoader  
 
 Please be aware:
 
