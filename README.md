@@ -23,6 +23,8 @@ For safety reasons:
 <img src="https://iss4cf0ng.github.io/images/meme/mika_rollcake_hit.png" width=300>
 </p>
 
+PoC of analysis: https://iss4cf0ng.github.io/2026/02/24/2026-2-24-UnofficialRedistribution/
+
 ## Introduction
 A C# PE loader for x64 and x86 PE files.
 
