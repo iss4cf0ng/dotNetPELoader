@@ -1,4 +1,28 @@
 # dotNetPELoader
+## Security Notice
+Recently, I discovered an unofficial modified version of this project being redistributed outside of this repository.
+
+After reviewing the files, I identified additional hidden components and script-loading behavior that do **NOT** exist in the official source code.
+
+Please be aware:
+
+- The unofficial distribution includes extra executable and script-loading elements that are **NOT** part of the original source code.
+- The official releases of this project are published **ONLY in this repository**.
+- Official releases do **NOT** contain additional batch files, hidden loaders, or embedded script components.
+
+I am not affiliated with any third-party redistribution of this project.
+
+For safety reasons:
+
+- If you encounter repackaged builds containing unexpected executables or loaders, do not run them.
+- Only download releases directly from this repository.
+- Review the source code before building whenever possible.
+
+<p align="center">
+<img src="https://iss4cf0ng.github.io/images/meme/mika_rollcake_hit.png" width=300>
+</p>
+
+## Introduction
 A C# PE loader for x64 and x86 PE files.
 
 Recently, when I was developing a fileless execution method for [DuplexSpy RAT](https://github.com/iss4cf0ng/DuplexSpyCS) version 2, I could hardly find a C#-based x86 PE loader.  
