@@ -1,4 +1,9 @@
 # dotNetPELoader
+![status](https://img.shields.io/badge/status-production-orange)
+![language](https://img.shields.io/badge/language-C%23-purple)
+![license](https://img.shields.io/badge/license-MIT-green)
+![release](https://img.shields.io/github/v/release/iss4cf0ng/dotNetPELoader)
+
 ## Security Notice
 Recently, I discovered an unofficial modified version of this project being redistributed outside of this repository.  
 
